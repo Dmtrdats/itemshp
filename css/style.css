@@ -37,7 +37,8 @@ body {
   .bg__shadow-card {
     height: 156px;
     background: linear-gradient(180deg, rgba(22, 21, 31, 0) 0%, #16151F 100%);
-    border-radius: 0px 0px 10px 10px; }
+    border-radius: 0px 0px 10px 10px;
+    pointer-events: none; }
   .bg__shadow-header {
     background: linear-gradient(180deg, #07050A 0%, rgba(0, 0, 0, 0) 100%);
     opacity: 0.7; }
